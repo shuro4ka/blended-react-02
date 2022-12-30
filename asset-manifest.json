@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/blended-02/static/css/main.7acaea2f.css",
-    "main.js": "/blended-02/static/js/main.9033fd19.js",
-    "index.html": "/blended-02/index.html",
-    "main.7acaea2f.css.map": "/blended-02/static/css/main.7acaea2f.css.map",
-    "main.9033fd19.js.map": "/blended-02/static/js/main.9033fd19.js.map"
+    "main.css": "/blended-react-git%2002/static/css/main.7acaea2f.css",
+    "main.js": "/blended-react-git%2002/static/js/main.1cf0f1a8.js",
+    "index.html": "/blended-react-git%2002/index.html",
+    "main.7acaea2f.css.map": "/blended-react-git%2002/static/css/main.7acaea2f.css.map",
+    "main.1cf0f1a8.js.map": "/blended-react-git%2002/static/js/main.1cf0f1a8.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.9033fd19.js"
+    "static/js/main.1cf0f1a8.js"
   ]
 }
