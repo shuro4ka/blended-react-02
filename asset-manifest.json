@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/blended-react-git%2002/static/css/main.7acaea2f.css",
-    "main.js": "/blended-react-git%2002/static/js/main.1cf0f1a8.js",
-    "index.html": "/blended-react-git%2002/index.html",
-    "main.7acaea2f.css.map": "/blended-react-git%2002/static/css/main.7acaea2f.css.map",
-    "main.1cf0f1a8.js.map": "/blended-react-git%2002/static/js/main.1cf0f1a8.js.map"
+    "main.css": "/shuro4ka/blended-react-02.git/static/css/main.7acaea2f.css",
+    "main.js": "/shuro4ka/blended-react-02.git/static/js/main.8f3bc62c.js",
+    "index.html": "/shuro4ka/blended-react-02.git/index.html",
+    "main.7acaea2f.css.map": "/shuro4ka/blended-react-02.git/static/css/main.7acaea2f.css.map",
+    "main.8f3bc62c.js.map": "/shuro4ka/blended-react-02.git/static/js/main.8f3bc62c.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.1cf0f1a8.js"
+    "static/js/main.8f3bc62c.js"
   ]
 }
