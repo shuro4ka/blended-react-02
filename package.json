@@ -1,8 +1,8 @@
 {
-  "name": "react-homework-template",
+  "name": "blended-react-02",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://shuro4ka.github.io/blended-react-git 02/",
+  "homepage": "https://github.com/shuro4ka/blended-react-02.git",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
